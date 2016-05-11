@@ -1,0 +1,3 @@
+CHANGED,D:\Android Studio Projects\git apps\DataStorageOptions\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\myjarvis\datastorageoptions\SharedPrefrencesActivity$2$override.class
+CHANGED,D:\Android Studio Projects\git apps\DataStorageOptions\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\myjarvis\datastorageoptions\SharedPrefrencesActivity$1$override.class
+CHANGED,D:\Android Studio Projects\git apps\DataStorageOptions\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
